@@ -1,8 +1,3 @@
-
-> **Status:** Experimental / Active Development
-> **Core Architecture:** Agent Game Forge
-> **Sponsor:** ShiroHana Heavy Investment
-
 ## Abstract
 
 This repository contains an experimental foundational framework for Visual Novels (VN). By leveraging **Agent Game Forge** technology, this project aims to transition the traditional "tree-based branching script" paradigm into a "multi-agent dynamic computational" narrative system. 
