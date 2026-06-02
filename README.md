@@ -4,7 +4,7 @@ This repository contains an experimental foundational framework for Visual Novel
 
 Rather than relying on hard-coded dialogue options, the system assigns independent behavioral logic, hidden motivations, and psychological state parameters to each character. Through the introduction of environmental variables, the engine observes and computes how a narrative network spontaneously emerges from inter-character dynamics.
 
-## 🔬 Core Features
+## Core Features
 
 *   **Agent-Based Narrative Drive:** Integrated with Agent Game Forge, treating each character as an autonomous node equipped with short-term memory buffers and emotional fluctuation parameters.
 *   **Dynamic Text Generation:** Dialogue is no longer merely retrieved from static strings; it is rendered in real-time based on the character's current "Stress Index" and "Affinity Matrix."
